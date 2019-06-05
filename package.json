@@ -39,8 +39,8 @@
   },
   "dependencies": {
     "ajv": "^6.10.0",
-    "ajv-bsontype": "^1.0.6",
+    "ajv-bsontype": "^1.0.7",
     "mongo-mock": "^3.7.1",
-    "mongodb": "^3.2.6"
+    "mongodb": "^3.2.7"
   }
 }
